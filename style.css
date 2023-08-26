@@ -215,6 +215,11 @@ abbr {
 }
 
 /* hover effect */
+.container ul li:hover{
+    color: #75414ac4;
+    font-size: 1.15rem;
+    background-color: #efebe628;
+}
 .media:hover{
     background-color: #ff0000;
     color: #e3e2db;
@@ -247,6 +252,6 @@ abbr {
     background-color: #3b58982c;
  }
 .project-box:hover{
-    border: .0938rem solid #524131c4;
+    border: .0438rem solid #524131c4;
 }
  /* resume section */
